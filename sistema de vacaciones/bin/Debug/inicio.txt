@@ -1,0 +1,4 @@
+localhost
+siscop
+root
+zenen

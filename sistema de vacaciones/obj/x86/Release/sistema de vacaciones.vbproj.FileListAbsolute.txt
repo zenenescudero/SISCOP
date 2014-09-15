@@ -1,0 +1,152 @@
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.exe.config
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.exe
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.pdb
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.xml
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\ClosedXML.dll
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\DocumentFormat.OpenXml.dll
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\itextsharp.dll
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\MySql.Data.dll
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\ResolveAssemblyReference.cache
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_vacaciones.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicopermisos.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.jefes.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.subgerente.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.gerente.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.departamentos.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.puestos.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.incapacidad.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadoeditar.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadonuevo.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleados.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empresas.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Sistema.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Resources.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_Salida.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Vacaciones.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\GenerateResource.read.1.tlog
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\GenerateResource.write.1.tlog
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.exe
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.xml
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.pdb
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicovac.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historiincapacidad.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Informacion.resources
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.exe.manifest
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\sistema de vacaciones.application
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.exe.manifest
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.application
+d:\usuarios\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Origen_de_Datos.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.config
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.manifest
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.application
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.pdb
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.xml
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\ClosedXML.dll
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\DocumentFormat.OpenXml.dll
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\itextsharp.dll
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\MySql.Data.dll
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicovac.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historiincapacidad.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Informacion.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Origen_de_Datos.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_vacaciones.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicopermisos.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.jefes.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.subgerente.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.gerente.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.departamentos.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.puestos.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.incapacidad.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadoeditar.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadonuevo.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleados.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empresas.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Sistema.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_Salida.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Vacaciones.resources
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe.manifest
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.application
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.xml
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.pdb
+D:\Users\zcruz\Desktop\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.config
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.xml
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.pdb
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.manifest
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.application
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.pdb
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.xml
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\ClosedXML.dll
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\DocumentFormat.OpenXml.dll
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\itextsharp.dll
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\MySql.Data.dll
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicovac.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historiincapacidad.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Informacion.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Origen_de_Datos.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_vacaciones.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicopermisos.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.jefes.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.subgerente.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.gerente.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.departamentos.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.puestos.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.incapacidad.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadoeditar.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadonuevo.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleados.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empresas.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Sistema.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_Salida.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Vacaciones.resources
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe.manifest
+D:\Users\zcruz\Downloads\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.application
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.config
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.xml
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.pdb
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe.manifest
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.application
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.exe
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.pdb
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\Sistema De Vacaciones.xml
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\ClosedXML.dll
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\DocumentFormat.OpenXml.dll
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\itextsharp.dll
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\bin\Release\MySql.Data.dll
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.vbprojResolveAssemblyReference.cache
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicovac.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historiincapacidad.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Informacion.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Origen_de_Datos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_vacaciones.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Historicopermisos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.jefes.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.subgerente.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.gerente.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.departamentos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.puestos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.incapacidad.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadoeditar.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleadonuevo.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empleados.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.empresas.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Sistema.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Permisos_Salida.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.Vacaciones.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\sistema de vacaciones.vbproj.GenerateResource.Cache
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.exe.manifest
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\Sistema De Vacaciones.application
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.catalogoaccesos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.catalogoequipos.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.sistemasmodificaciones.resources
+D:\ZENEN\DESARROLLOS\DESARROLLO SISCOP\sistema de vacaciones\sistema de vacaciones\obj\x86\Release\WindowsApplication1.equipomodificaciones.resources
